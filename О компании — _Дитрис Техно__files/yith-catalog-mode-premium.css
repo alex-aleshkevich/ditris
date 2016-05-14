@@ -1,0 +1,20 @@
+.ywctm-custom-button-container span.icon-form {
+    font-size: 20px;
+    margin-right: 5px;
+}
+
+.ywctm-custom-button-container span.icon-form,
+.ywctm-custom-button-container span.icon-form:before,
+.ywctm-custom-button-container span.inquiry-title {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#tab-inquiry_form ul {
+    list-style: none;
+    margin: 0;
+}
+
+#tab-inquiry_form ul li {
+    margin-bottom: 11px;
+}
